@@ -51,3 +51,6 @@
 
 # SecureElement
 /(vendor|odm)/bin/hw/android\.hardware\.secure_element@1\.0-service-disabled      u:object_r:hal_secure_element_default_exec:s0
+
+# FPS Info
+/sys/module/primary_display/parameters/display_framerate_main      u:object_r:sysfs_fpsinfo:s0
