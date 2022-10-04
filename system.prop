@@ -90,9 +90,6 @@ ro.telephony.default_network=22,22
 ro.vendor.use_data_netmgrd=true
 telephony.lteOnCdmaDevice=1
 
-# SSR
-persist.vendor.ssr.restart_level=ALL_ENABLE
-
 # WFD
 persist.debug.wfd.enable=1
 persist.sys.wfd.virtual=0
