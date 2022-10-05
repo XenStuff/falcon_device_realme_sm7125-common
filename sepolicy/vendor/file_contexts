@@ -57,4 +57,4 @@
 /sys/module/primary_display/parameters/display_framerate_main      u:object_r:sysfs_fpsinfo:s0
 
 # Power
-/vendor/bin/hw/android\.hardware\.power-service\.xia-libperfmgr      u:object_r:hal_power_default_exec:s0
+/vendor/bin/hw/android\.hardware\.power-service                                                         u:object_r:hal_power_default_exec:s0
